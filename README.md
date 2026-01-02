@@ -1,5 +1,5 @@
 
-# ⚡ Sorabh.dev — Recruiter-Friendly Full-Stack Portfolio (Long README)
+# ⚡ Sorabh Kumar portfolio
 
 <div align="center">
 
