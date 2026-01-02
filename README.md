@@ -10,7 +10,7 @@
 
 <b>A modern, performance-focused full-stack portfolio built to impress recruiters with clean architecture, smooth animations, and production-ready code.</b>
 
-[🚀 Live Demo](https://your-vercel-link-here.app) •
+[🚀 Live Demo](https://portfolio-phi-two-6zbdcisg0d.vercel.app/) •
 [🐞 Report Bug](https://github.com/sorabh56/portfolio/issues)
 
 </div>
